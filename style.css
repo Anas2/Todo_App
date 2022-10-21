@@ -1,0 +1,56 @@
+
+/* ==================================================== css ===================== */
+.heading{
+    font-size: 40px;
+    text-transform: uppercase;
+
+    
+}
+.maindiv{
+    text-align: center;
+}
+.input{
+    border-color: gray;
+    width: 400px;
+    font-size: 20px;
+    height: 35px;
+    
+}
+.mainBtn{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    border-color: gray;
+    color: white;
+    height: 35px;
+
+}
+.editBtn{
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    height: 35px;
+    width: 90px;
+
+}
+.deleteBtn{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 90px;
+
+}
+.liclass{
+    font-size: 30px;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bold;
+    
+}
